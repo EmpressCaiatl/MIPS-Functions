@@ -1,5 +1,5 @@
 ###########################################################################
-#  Name: Isabella Maffeo
+#  Name: Isabella
 #  Assignment: MIPS #3
 #  Description:  Using functions, register preservation, and arithmetic
 #				 calculate the diagonal of trapezoids based on measurements
